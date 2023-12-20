@@ -27,7 +27,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/includeToolbarPerfil"
         app:shapeAppearanceOverlay="@style/Circule"
-        app:srcCompat="@drawable/baseline_person_24" />
+        app:srcCompat="@drawable/perfil" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fabSelecionar"
