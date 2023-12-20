@@ -5,5 +5,10 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+    <style name="Circule">
+        <item name="cornerSize">50%</item>
+    </style>
+
+
     <style name="Theme.FagMessenger" parent="Base.Theme.FagMessenger" />
 </resources>
