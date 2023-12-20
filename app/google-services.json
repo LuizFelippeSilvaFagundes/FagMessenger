@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986102002173",
+    "project_id": "fagmessenger",
+    "storage_bucket": "fagmessenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986102002173:android:9d9c7d80d01ea70ced6994",
+        "android_client_info": {
+          "package_name": "com.example.fagmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASE5UaqG3M6C4daSS1dwxM-X7-vS_aoNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
